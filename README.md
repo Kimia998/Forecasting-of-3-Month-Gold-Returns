@@ -18,4 +18,5 @@ Model predictions vs actual gold returns with highlighted market stress periods.
 
 ## Feature Importance
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/Feature Importance.png)
+
