@@ -8,4 +8,4 @@ A full machine learning pipeline is implemented, including feature engineering, 
 
 Model predictions vs actual gold returns with highlighted market stress periods.
 
-![Gold Prediction Plot](images/gold_prediction_plot.png)
+![Gold Prediction Plot](images/Gold_return.png)
