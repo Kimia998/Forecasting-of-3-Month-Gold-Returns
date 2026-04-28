@@ -3,3 +3,9 @@ Machine Learning-Based Forecasting of 3-Month Gold Returns Using Macroeconomic a
 
 This project analyzes whether macroeconomic and geopolitical factors can predict future gold returns.
 A full machine learning pipeline is implemented, including feature engineering, time-series modeling, model comparison and AutoML benchmarking.
+
+## Example Output
+
+Model predictions vs actual gold returns with highlighted market stress periods.
+
+![Gold Prediction Plot](images/gold_prediction_plot.png)
